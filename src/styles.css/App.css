@@ -1,0 +1,89 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.header {
+  background-color: #3498db;
+  color: #fff;
+  text-align: center;
+  padding: 1em 0;
+}
+
+.logo {
+  font-size: 2em;
+  margin: 0;
+}
+
+.navbar {
+  list-style: none;
+  padding: 0;
+  margin-top: 10px;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: #fff;
+  margin-right: 15px;
+  font-size: 1.2em;
+}
+
+section {
+  padding: 80px 0;
+}
+
+.hero {
+  background-color: #ecf0f1;
+  text-align: center;
+  color: #333;
+}
+
+.hero-content {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.about {
+  background-color: #3498db;
+  color: #fff;
+}
+
+.contact {
+  background-color: #2ecc71;
+  color: #fff;
+}
+
+.testimonials {
+  background-color: #f39c12;
+  color: #fff;
+}
+
+.testimonial {
+  margin-bottom: 20px;
+}
+
+.testimonial p {
+  font-style: italic;
+}
+
+.testimonial .author {
+  font-weight: bold;
+}
+
+.resources {
+  background-color: #e74c3c;
+  color: #fff;
+}
+
+.footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 1em 0;
+}
