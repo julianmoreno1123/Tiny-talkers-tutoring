@@ -14,7 +14,13 @@ function App() {
           <a >Recursos educativos</a>
         </nav>
       </header>
-
+      <div className="cont">
+        <div className="cont-text">
+          <h1>Texto</h1>
+          <p>     Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatem suscipit minima aperiam adipisci, fugiat alias tempora assumenda praesentium recusandae
+            voluptatum mollitia voluptatibus reprehenderit molestias ex, quia accusamus voluptates laborum facilis. </p>
+        </div>
+      </div>
       <section className="hero">
         <div className="hero-content">
           <h2>Bienvenido a Tiny Talkers Tutoring</h2>
